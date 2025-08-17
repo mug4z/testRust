@@ -1,1 +1,1 @@
-Learn Rust because why not.
+# Learn Rust because why not.
